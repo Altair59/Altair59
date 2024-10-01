@@ -6,7 +6,7 @@
 
 I'm a current MS in Info Networking student at CMU :school: :us: and graduated BS in Comp Sci student at UofT :school: 🇨🇦. 
 
-I'm passinate :stuck_out_tongue_closed_eyes: about developing applications that can empower people :muscle: in their daily lives.  I possess strong skills and a solid background in both front-end and back-end application development and deployment.
+I'm passionate about :stuck_out_tongue_closed_eyes: developing applications that can empower people :muscle: in their daily lives.  I possess strong skills and a solid background in both front-end and back-end application development and deployment.
 
 My SDE intern experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼, where I have collaborated with individuals from diverse cultural backgrounds. I thrive in innovative and inclusive environments and am eager to join a new team where I can continue to learn and grow.
 
