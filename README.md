@@ -1,2 +1,3 @@
-[![Youhai's GitHub stats](https://github-readme-stats-git-master-altair59s-projects.vercel.app/api?username=Altair59&hide=stars&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged,prs_merged_percentage)](https://github.com/Altair59/github-readme-stats)
+[![Altair59's GitHub stats](https://github-readme-stats-git-master-altair59s-projects.vercel.app/api?username=Altair59&hide=stars&theme=tokyonight&show_icons=true&include_all_commits=true&hide_rank=true&show=prs_merged,prs_merged_percentage)](https://github.com/Altair59/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-master-altair59s-projects.vercel.app/api/top-langs/?username=Altair59&hide=css&layout=pie&theme=tokyonight)](https://github.com/Altair59/github-readme-stats)
+[![Altair59's WakaTime stats](https://github-readme-stats-git-master-altair59s-projects.vercel.app/api/wakatime?username=Altair59)](https://github.com/Altair59/github-readme-stat)
