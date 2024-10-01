@@ -8,7 +8,7 @@ I'm a current MS in Info Networking student at CMU :school: :us: and graduated B
 
 I'm passinate :stuck_out_tongue_closed_eyes: about developing applications that can empower people :muscle: in their daily lives.  I possess strong skills and a solid background in both front-end and back-end application development and deployment.
 
-My professional experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼, where I have collaborated with individuals from diverse cultural backgrounds. I thrive in innovative and inclusive environments and am eager to join a new team where I can continue to learn and grow.
+My SDE intern experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼, where I have collaborated with individuals from diverse cultural backgrounds. I thrive in innovative and inclusive environments and am eager to join a new team where I can continue to learn and grow.
 
 **I'm actively looking for summer SDE intern opportunities in :us:!**
 
@@ -107,7 +107,22 @@ My professional experience spans Canada 🍁, Japan :tokyo_tower:, and China �
 
 <div align="left">
   <a href="mailto:liyouhai59@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/youhai-li/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+</div>
+
+###
+
+<h2 align="left">I have worked at...</h2>
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg" height="35" />
+  <img width="12" />
+  <img src="https://hennge.com/special/rkt/assets/images/hennge_logo_white_horizontal.svg" height="35" />
+  <img width="12" />
+  <img src="https://acisolar.ro/wp-content/uploads/2023/01/huawei-logo-horizontal.svg" height="35" />
+  
+  
 </div>
 
 ###
