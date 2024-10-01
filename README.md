@@ -116,11 +116,11 @@ My SDE intern experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼,
 <h2 align="left">I have worked at...</h2>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg" height="35" />
+  <a href="https://global.rakuten.com/corp/about/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg" height="35" /> </a>
   <img width="12" />
-  <img src="https://hennge.com/special/rkt/assets/images/hennge_logo_white_horizontal.svg" height="35" />
+  <a href="https://hennge.com/global/about/" target="_blank"><img src="https://hennge.com/special/rkt/assets/images/hennge_logo_white_horizontal.svg" height="35" /> </a>
   <img width="12" />
-  <img src="https://acisolar.ro/wp-content/uploads/2023/01/huawei-logo-horizontal.svg" height="35" />
+  <a href="https://www.huawei.com/en/corporate-information" target="_blank"><img src="https://acisolar.ro/wp-content/uploads/2023/01/huawei-logo-horizontal.svg" height="35" /> </a>
   
   
 </div>
