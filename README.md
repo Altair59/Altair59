@@ -19,7 +19,7 @@ My SDE intern experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼,
   <img src="https://github-readme-stats-git-master-altair59s-projects.vercel.app/api/top-langs?username=Altair59&locale=en&hide_title=false&layout=compact&card_width=320&theme=tokyonight&hide_border=false&hide=css&bg_color=00000000" height="150" alt="languages graph"  />
 </div>
 
-I've been mostly active in internships and private org projects recently. But I have engaged in exciting open-source projects on GitHub in the past as well! Some projects are UofT DCS's official [TA application system](https://github.com/uoft-tapp/tapp) and a [Twitter clone](https://github.com/Altair59/cyclone-v2).
+I've been mostly active in internships recently. But I have engaged in exciting open-source projects on GitHub in the past as well! Some projects are UofT DCS's official [TA application system](https://github.com/uoft-tapp/tapp) and a [Twitter clone](https://github.com/Altair59/cyclone-v2).
 
 ###
 
