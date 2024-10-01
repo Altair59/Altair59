@@ -10,7 +10,7 @@ I'm passinate :stuck_out_tongue_closed_eyes: about developing applications that 
 
 My SDE intern experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼, where I have collaborated with individuals from diverse cultural backgrounds. I thrive in innovative and inclusive environments and am eager to join a new team where I can continue to learn and grow.
 
-**I'm actively looking for summer SDE intern opportunities in :us:!**
+**I'm actively looking for summer 2025 SDE intern opportunities in :us:!**
 
 ###
 
