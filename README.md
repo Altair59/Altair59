@@ -108,7 +108,7 @@ My SDE intern experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼,
 <div align="left">
   <a href="mailto:liyouhai59@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
   <img width="12" />
-  <a href="https://www.linkedin.com/in/youhai-li/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+  <a href="https://www.linkedin.com/in/youhai-li/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
 </div>
 
 ###
@@ -116,11 +116,11 @@ My SDE intern experience spans Canada 🍁, Japan :tokyo_tower:, and China 🐼,
 <h2 align="left">I have worked at...</h2>
 
 <div align="left">
-  <a href="https://global.rakuten.com/corp/about/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg" height="35" /> </a>
+  <a href="https://global.rakuten.com/corp/about/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Rakuten_Global_Brand_Logo.svg" height="35" /> </a>
   <img width="12" />
-  <a href="https://hennge.com/global/about/" target="_blank"><img src="https://hennge.com/special/rkt/assets/images/hennge_logo_white_horizontal.svg" height="35" /> </a>
+  <a href="https://hennge.com/global/about/"><img src="https://hennge.com/special/rkt/assets/images/hennge_logo_white_horizontal.svg" height="35" /> </a>
   <img width="12" />
-  <a href="https://www.huawei.com/en/corporate-information" target="_blank"><img src="https://acisolar.ro/wp-content/uploads/2023/01/huawei-logo-horizontal.svg" height="35" /> </a>
+  <a href="https://www.huawei.com/en/corporate-information"><img src="https://acisolar.ro/wp-content/uploads/2023/01/huawei-logo-horizontal.svg" height="35" /> </a>
   
   
 </div>
