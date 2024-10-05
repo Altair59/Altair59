@@ -1,2 +1,2 @@
 def __main__():
-    print("Helloo, World!")
+    print("Hellooo, World!")
