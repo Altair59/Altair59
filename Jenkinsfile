@@ -18,7 +18,7 @@ node {
   }
   stage('Run Hadoop Job on Dataproc') {
     sh '''
-      /tmp/google-cloud-sdk/bin/gcloud compute ssh --zone "us-central1-c" "hadoop-m" --tunnel-through-iap --project "cmu-14848-434700" '
+      /tmp/google-cloud-sdk/bin/gcloud compute ssh --zone "us-central1-c" "hadoop-m" --tunnel-through-iap --project "cmu-14848-434700" --command '
         pwd
         ls
         cd /tmp/mapreduce-source/
