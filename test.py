@@ -19,3 +19,4 @@ def __main__():
     prit("Hellob, World!")
     divide_numbers(1, 0)
     incorrect_condition(5)
+    int s = new int[5];
