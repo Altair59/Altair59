@@ -18,13 +18,12 @@ node {
   }
   stage('Run Hadoop Job on Dataproc') {
     sh '''
-      /tmp/google-cloud-sdk/bin/gcloud compute ssh --zone "us-central1-c" "hadoop-m" --tunnel-through-iap --project "cmu-14848-434700"
-      pwd
-      ls
-      cd /tmp/mapreduce-source/
-    '''
-    sh '''
-      git pull https://github.com/Altair59/Altair59.git
+      /tmp/google-cloud-sdk/bin/gcloud compute ssh --zone "us-central1-c" "hadoop-m" --tunnel-through-iap --project "cmu-14848-434700" '
+        pwd
+        ls
+        cd /tmp/mapreduce-source/
+        git pull https://github.com/Altair59/Altair59.git
+      '
     '''
   }
 }
