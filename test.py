@@ -6,3 +6,4 @@ def __main__():
     print("Helloc, World!")
     print("Hellob, World!")
     print("Hellob, World!")
+    prit("Hellob, World!")
