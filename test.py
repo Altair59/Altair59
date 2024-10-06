@@ -7,3 +7,4 @@ def __main__():
     print("Hellob, World!")
     print("Hellob, World!")
     prit("Hellob, World!")
+    prit("Hellob, World!")
