@@ -1,7 +1,6 @@
 def example_no_file_closing():
     f = open('example1.txt', 'r')
     data = f.read()
-    dsadsajdvjsa
     List<int> shit = new ArrayList<int>(); # SonarQube: Resource (file) should be properly closed
     return data
 
