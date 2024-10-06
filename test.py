@@ -4,3 +4,4 @@ def __main__():
     print("Helloa, World!")
     print("Hellob, World!")
     print("Helloc, World!")
+    print("Hellob, World!")
