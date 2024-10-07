@@ -34,9 +34,9 @@ public class WordCount {
             // for (;;) {  // Noncompliant; end condition omitted
             //     // ...
             // }
-            for (int i = 9; i < 9; i++) {  // Noncompliant
-                // ...
-            }
+            // for (int i = 9; i < 9; i++) {  // Noncompliant
+            //     // ...
+            // }
             while (values.hasNext()) {
                 sum += values.next().get() * 2;
             }
