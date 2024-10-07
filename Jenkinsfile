@@ -30,9 +30,9 @@ node {
         javac -classpath `hadoop classpath` -d wordcount_classes WordCount.java
         jar -cvf WordCount.jar -C wordcount_classes/ .
         hadoop jar /home/jenkins/WordCount.jar org.myorg.WordCount input output
-        hadoop dfs -cat output/part-00000
-        hadoop dfs -cat output/part-00001
-        hadoop dfs -cat output/part-00002
+        hdfs dfs -cat output/part-00000
+        hdfs dfs -cat output/part-00001
+        hdfs dfs -cat output/part-00002
       '
     '''
   }
