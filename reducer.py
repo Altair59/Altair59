@@ -3,6 +3,7 @@ import sys
 from operator import itemgetter
 # using a dictionary to map words to their counts
 current_word = None
+print("hello")
 current_count = 0
 word = None
 # input comes from STDIN
