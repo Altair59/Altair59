@@ -32,12 +32,12 @@ public class WordCount {
         public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output,
                 Reporter reporter) throws IOException {
             int sum = 0;
-            for (;;) {  // Noncompliant; end condition omitted
-                // ...
-            }
-            for (int i = 10; i < 10; i++) {  // Noncompliant
-                // ...
-            }
+            // for (;;) {  // Noncompliant; end condition omitted
+            //     // ...
+            // }
+            // for (int i = 10; i < 10; i++) {  // Noncompliant
+            //     // ...
+            // }
             while (values.hasNext()) {
                 sum += values.next().get() * 2;
             }
