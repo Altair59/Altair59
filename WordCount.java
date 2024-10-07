@@ -9,7 +9,6 @@ import org.apache.hadoop.conf.*;
 import org.apache.hadoop.io.*;
 import org.apache.hadoop.mapred.*;
 import org.apache.hadoop.util.*;
-import org.w3c.dom.Text;
 
 public class WordCount {
 
@@ -39,7 +38,7 @@ public class WordCount {
             //     // ...
             // }
             while (values.hasNext()) {
-                sum += values.next().get() * 2;
+                sum += values.next().get() * 3;
             }
             output.collect(key, new IntWritable(sum));
         }

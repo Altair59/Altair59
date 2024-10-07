@@ -23,6 +23,7 @@ node {
       /tmp/google-cloud-sdk/bin/gcloud compute scp /tmp/Altair59/WordCount.java hadoop-m:/home/jenkins --tunnel-through-iap --zone us-central1-c --project cmu-14848-434700
       /tmp/google-cloud-sdk/bin/gcloud compute ssh --zone "us-central1-c" "hadoop-m" --tunnel-through-iap --project "cmu-14848-434700" --command '
         cd /home/jenkins
+        cat WordCount.java
         hdfs dfs -rm -r output
         rm -rf wordcount_classes
         mkdir wordcount_classes
