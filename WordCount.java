@@ -38,7 +38,7 @@ public class WordCount {
                 // ...
             }
             while (values.hasNext()) {
-                sum += values.next().get() * 3;
+                sum += values.next().get() * 2;
             }
             output.collect(key, new IntWritable(sum));
         }
