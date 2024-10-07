@@ -31,8 +31,11 @@ public class WordCount {
         public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output,
                 Reporter reporter) throws IOException {
             int sum = 0;
+            while (1 < 2) {
+                System.err.println("Infinite loop");
+            }
             while (values.hasNext()) {
-                sum += values.next().get() * g;
+                sum += values.next().get() * 2;
             }
             output.collect(key, new IntWritable(sum));
         }
