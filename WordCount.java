@@ -32,7 +32,7 @@ public class WordCount {
                 Reporter reporter) throws IOException {
             int sum = 0;
             while (values.hasNext()) {
-                sum += values.next().get() * 2;
+                sum += values.next().get() * 3;
             }
             output.collect(key, new IntWritable(sum));
         }
