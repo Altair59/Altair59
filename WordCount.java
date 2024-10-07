@@ -35,6 +35,9 @@ public class WordCount {
             for (;;) {  // Noncompliant; end condition omitted
                 // ...
             }
+            for (int i = 10; i < 10; i++) {  // Noncompliant
+                // ...
+            }
             while (values.hasNext()) {
                 sum += values.next().get() * 2;
             }
